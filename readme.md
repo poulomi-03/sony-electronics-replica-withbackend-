@@ -37,6 +37,6 @@
 
 ![](/assets/images/websitepreview/footer.png)
 
-16.  check out the home preview of the website 
+16.  check out the xampp server database preview of the website 
 
 ![](/assets/images/websitepreview/xampp(database).png)
