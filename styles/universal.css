@@ -1,0 +1,73 @@
+/* Universal design starts */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Work Sans", sans-serif;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "PT Sans", sans-serif;
+  overflow-x: hidden;
+  font-family: "Work Sans", sans-serif;
+  /* border: 2px solid black; */
+}
+
+a {
+  text-decoration: none;
+  transition: 0.5s;
+  cursor: pointer;
+}
+
+button {
+  cursor: pointer;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  list-style: none;
+  font-family: "PT Sans", sans-serif;
+}
+
+/* 
+p {
+  font-size: 24px;
+  font-weight: 300;
+  color: #fff;
+}
+
+
+a:hover {
+  color: #75e6da;
+  transition: 0.5s;
+}
+
+
+input {
+  width: 250px;
+  height: 35px;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  padding-left: 10px;
+  outline: 0;
+  outline-color: none;
+  border: none;
+}
+
+i {
+  cursor: pointer;
+  margin-right: 20px;
+}
+
+i:hover {
+  color: #189ab4;
+}
+
+universal design ends */
