@@ -36,3 +36,7 @@
 15.  check out the footer section preview of the website
 
 ![](/assets/images/websitepreview/footer.png)
+
+16.  check out the home preview of the website 
+
+![](/assets/images/websitepreview/xampp(database).png)
