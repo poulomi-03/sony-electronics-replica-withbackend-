@@ -12,7 +12,7 @@
 
 6. Execute the SQL queries in mysql admin (SQL Option is there) use quieries mentioned in (index.sql) exclude comments
 
-7. Now run your php proect in chrome browser you can use this URL( http://localhost/sony-electronics-replica/index.php )
+7. Now run your php project in chrome browser you can use this URL( http://localhost/sony-electronics-replica/index.php )
 
 8. In website click on "Become a My Sony Member" (top right corner)
 
@@ -22,7 +22,7 @@
 
 11. Now repeat step 8 and try to login with your registered email and password
 
-12. check out the home preview of the website [sony-electronics-replica](http://localhost/sony-electronics-replica(withbackend)/index.php)
+12. check out the home preview of the website [sony-electronics-replica(withbackend)](http://localhost/sony-electronics-replica(withbackend)/index.php)
 
 ![](/assets/images/websitepreview/homepreview.png)
 
