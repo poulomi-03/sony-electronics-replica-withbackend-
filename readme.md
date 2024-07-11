@@ -22,6 +22,17 @@
 
 11. Now repeat step 8 and try to login with your registered email and password
 
-12. Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+12. check out the home preview of the website [sony-electronics-replica](http://localhost/sony-electronics-replica(withbackend)/index.php)
 
 ![](/assets/images/websitepreview/homepreview.png)
+
+13.  check out the support hover effect preview of the website 
+
+![](/assets/images/websitepreview/supporthover.png)
+
+14.  check out the login/register form preview of the website 
+![](/assets/images/websitepreview/loginform.png)
+
+15.  check out the footer section preview of the website
+
+![](/assets/images/websitepreview/footer.png)
