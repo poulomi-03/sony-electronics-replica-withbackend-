@@ -21,3 +21,7 @@
 10. First register youself with dummy data
 
 11. Now repeat step 8 and try to login with your registered email and password
+
+12. Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+
+![](/assets/images/websitepreview/homepreview.png)
